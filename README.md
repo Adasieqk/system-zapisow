@@ -12,3 +12,4 @@ ng serve
 
 ![Photo 1](https://github.com/adasieqk/system-zapisow/blob/main/screenshots/1.jpg)
 
+![Photo 2](https://github.com/adasieqk/system-zapisow/blob/main/screenshots/2.jpg)
